@@ -1,0 +1,41 @@
+_repo: Gideon-s-Band--A-Tale-of-the-Mississippi_19348
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Yohn, F. C. (Frederick Coffay)
+    alias: Yohn, Frederick Coffay
+    birthdate: 1875
+    deathdate: 1933
+    gutenberg_agent_id: '26457'
+    url: http://www.gutenberg.org/2009/agents/26457
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Coffay_Yohn
+covers:
+- cover_type: archival
+  image_path: 19348-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Cable, George Washington
+    alias: Cable, G. W. (George Washington)
+    birthdate: 1844
+    deathdate: 1925
+    gutenberg_agent_id: '3163'
+    url: http://www.gutenberg.org/2009/agents/3163
+    wikipedia: http://en.wikipedia.org/wiki/George_Washington_Cable
+description: Cable draws on his Southern heritage and military service in the Civil
+  War in this engaging novel about river life. A family finds trouble from the very
+  start of their river adventure, including the dreaded cholera. Cable said about
+  the novel, it is so natural an outcome of my own experience . . . that I wonder
+  how I came to leave it so long unwritten."
+gutenberg_issued: '2006-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19348'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Mississippi River -- Fiction'
+title: 'Gideon''s Band: A Tale of the Mississippi'
+url: http://www.gutenberg.org/ebooks/19348
